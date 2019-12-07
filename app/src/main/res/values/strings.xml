@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AS_Program</string>
+    <string name="flip_coin">Flip Coin</string>
+    <string name="heads_coin">heads_coin</string>
+</resources>
